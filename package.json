@@ -1,6 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "smpawar",
+  "author": "smpawar001",
   "dependencies": {
     "express": "^4.17.1"
   },
