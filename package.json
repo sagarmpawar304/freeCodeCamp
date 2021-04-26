@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "smpawar001",
+  "author": "sagar pawar",
+  "description": "this is sample project for api and microservice for freeCodeCamp",
   "dependencies": {
     "express": "^4.17.1"
   },
