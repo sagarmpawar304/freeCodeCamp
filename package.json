@@ -1,6 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "sagar maruti pawar",
+  "author": "smpawar",
   "dependencies": {
     "express": "^4.17.1"
   },
